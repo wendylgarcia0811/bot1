@@ -12,7 +12,7 @@
 - [Pancakeswap V3](https://docs.pancakeswap.finance/) (Exchange)
 
 ## Requirements For Initial Setup
-- Install [NodeJS](https://nodejs.org/en/). We recommend using the latest LTS (Long-Term-Support) version, and preferably installing NodeJS via [NVM](https://github.com/nvm-sh/nvm#intro).
+- Install [NodeJS](https://nodejs.org/en/). We recommend using the latest LTS (Long-Term-Support) version, and preferably installing NodeJS via [NVM](p).
 - Create an [Alchemy](https://www.alchemy.com/) account, you'll need to create an app for the Ethereum chain, on the mainnet network
 
 ## Setting Up
